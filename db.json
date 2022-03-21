@@ -1,0 +1,9 @@
+{
+    "userInfo": {
+        "name": "Test User",
+        "roles": [
+            "EXAMPLE_APP_USER",
+            "EXAMPLE_APP_ADMIN"
+        ]
+    }
+}
